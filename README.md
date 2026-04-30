@@ -191,3 +191,72 @@ Auth	JWT
 Build Tool	Maven
 DevOps	Docker
 Tools	Git, GitHub, Postman
+
+
+🚀 🧠 Technology Stack (Detailed)
+🔧 Backend Technologies
+☕ Spring Boot
+Java based framework used to build REST APIs
+Fast development with minimal configuration
+Embedded server (Tomcat) included
+🧩 Spring Security
+Handles authentication & authorization
+Secure APIs using JWT tokens
+Protects endpoints from unauthorized access
+🔐 JWT (JSON Web Token)
+Stateless authentication system
+Used for login sessions
+Frontend sends token with every request
+🗄️ Hibernate / JPA
+ORM (Object Relational Mapping)
+Converts Java objects ↔ Database tables
+Reduces raw SQL usage
+🛢️ Database (Configurable)
+MySQL / PostgreSQL
+Stores user data, content, etc.
+📦 Maven
+Dependency management
+Project build & packaging
+🐳 Docker
+Containerized backend deployment
+Same environment everywhere
+🎨 Frontend Technologies
+⚛️ React
+Component-based UI development
+Fast rendering using Virtual DOM
+🟦 TypeScript
+Strong typing for better code quality
+Reduces runtime errors
+🎨 Tailwind CSS
+Utility-first CSS framework
+Fast and responsive UI design
+🔗 API Integration
+Uses fetch / axios
+Connects frontend with backend APIs
+🌐 Development & Tools
+🧑‍💻 Visual Studio Code
+Code editor for development
+🌍 Git + GitHub
+Version control
+Collaboration & code hosting
+🧪 Postman
+API testing & debugging
+⚙️ Architecture
+🔄 Client-Server Architecture
+React → Frontend (Client)
+Spring Boot → Backend (Server)
+REST APIs for communication
+🔐 Authentication Flow
+User login
+Backend generates JWT token
+Frontend stores token
+Token sent in API requests
+📊 Summary (Short Version)
+Layer	Technology
+Frontend	React, TypeScript, Tailwind CSS
+Backend	Spring Boot, Spring Security
+Database	MySQL / PostgreSQL
+Auth	JWT
+Build Tool	Maven
+DevOps	Docker
+Tools	Git, GitHub, Postman
