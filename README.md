@@ -69,6 +69,8 @@ npm start
 http://localhost:3000
 🔗 Connect Frontend with Backend
 
+Implement the logics to connect with fronted.
+
 Open React config file (if API base URL exists):
 
 Example:
